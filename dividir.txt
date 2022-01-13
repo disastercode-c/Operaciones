@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+# loquesea
+=======
 # dividir 1232
+>>>>>>> a3ce2588485f291e47ea3cd475b78bde570a70d9
+
+OTROCAMBIOMAS
